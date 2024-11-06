@@ -3,6 +3,42 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 著作権表記
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+このサイトのコンテンツ（文章・写真・図版）には以下のライセンスを適用しています。
+
+<img src="/assets/images/CC_BY-SA_Logo.png">
+
+- CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International)
+- (C) 2022-2023 sasakulari, Sasakulab.
+
+なお、もしあなたがよければ、私のコンテンツを引用したドキュメントやウェブページについて教えてください。
+
+よろこんで見に行きます。
+
+## ホスティングサービス
+
+静的サイトのホスティングには、Cloudflare を利用しています。
+
+このサイトのドメインは、次の通りです。
+
+- [blog-sasakulab-com.pages.dev](blog-sasakulab-com.pages.dev)
+- [blog.sasakulab.com](blog.sasakulab.com)
+
+## テンプレート
+
+このサイトのテンプレートは、次の通りです。
+
+- [Minimal Mistakes GitHub Pages Starter](https://github.com/mmistakes/mm-github-pages-starter)
+
+## リポジトリ
+
+このサイトのリポジトリは、次の通りです。
+
+- [sasakulab/blog.sasakulab.com](https://github.com/sasakulab/blog.sasakulab.com)
+
+## 問い合わせ
+
+このブログについての問い合わせは、以下からお願いいたします。
+
+[blog@sasakulab.com](mailto:blog@sasakulab.com)
